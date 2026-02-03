@@ -69,3 +69,6 @@ public class UrlMapping {
         this.createdAt = createdAt;
     }
 }
+
+
+
