@@ -1,0 +1,13 @@
+url-shortener
+ ├── controller
+ │    └── UrlController.java
+ ├── entity
+ │    └── UrlMapping.java
+ ├── repository
+ │    └── UrlRepository.java
+ ├── service
+ │    ├── UrlService.java
+ │    └── UrlServiceImpl.java
+ ├── UrlShortenerApplication.java
+ ├── application.properties
+ └── pom.xml
