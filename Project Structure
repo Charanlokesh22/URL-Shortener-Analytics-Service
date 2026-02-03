@@ -1,13 +1,22 @@
-url-shortener
- ├── controller
- │    └── UrlController.java
- ├── entity
- │    └── UrlMapping.java
- ├── repository
- │    └── UrlRepository.java
- ├── service
- │    ├── UrlService.java
- │    └── UrlServiceImpl.java
- ├── UrlShortenerApplication.java
- ├── application.properties
+URL-Shortener-Analytics-Service
+ ├── src
+ │   └── main
+ │       ├── java
+ │       │   └── com
+ │       │       └── company
+ │       │           └── urlshortener
+ │       │               ├── controller
+ │       │               │   └── UrlController.java
+ │       │               ├── entity
+ │       │               │   └── UrlMapping.java
+ │       │               ├── repository
+ │       │               │   └── UrlRepository.java
+ │       │               ├── service
+ │       │               │   ├── UrlService.java
+ │       │               │   └── UrlServiceImpl.java
+ │       │               └── UrlShortenerApplication.java
+ │       │
+ │       └── resources
+ │           └── application.properties
+ │
  └── pom.xml
