@@ -9,7 +9,7 @@ import java.util.UUID;
 @Service
 public class UrlServiceImpl implements UrlService {
 
-    private final UrlRepository urlRepository;
+    private final UrlRepository urlRepository;  
 
     public UrlServiceImpl(UrlRepository urlRepository) {
         this.urlRepository = urlRepository;
