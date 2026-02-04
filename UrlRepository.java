@@ -13,6 +13,7 @@ public interface UrlRepository extends JpaRepository<UrlMapping, Long> {
 
 
     
+    
 }
 
 
