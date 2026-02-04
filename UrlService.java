@@ -8,3 +8,4 @@ public interface UrlService {
 
     String getOriginalUrl(String shortUrl);
 }
+
